@@ -1,5 +1,5 @@
 # Image Processing API
-Note: this theory belong to [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/), [Learning OpenCV by Bradski and Kaehler](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)
+Note: the applied theories in this system belong to [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/), [Learning OpenCV by Bradski and Kaehler](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)
 
 <p align="center">
   <img src="output/overview.png" alt="System Overview" width="600">
