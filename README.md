@@ -2,7 +2,7 @@
 Note: the applied theories in this system belong to [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/), [Learning OpenCV by Bradski and Kaehler](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)
 
 <p align="center">
-  <img src="https://github.com/owl-lilith/ImageXpert/output/overview.png" alt="System Overview" width="600">
+  <img src="https://github.com/owl-lilith/ImageXpert/blob/main/output/overview.png" alt="System Overview" width="600">
 </p>
 
 
