@@ -1,9 +1,11 @@
 # Image Processing API
 Note: the applied theories in this system belong to [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/), [Learning OpenCV by Bradski and Kaehler](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/owl-lilith/ImageXpert/blob/main/output/overview.png" alt="System Overview" width="600">
-</p>
+</p> -->
+
+![Alt text](output/overview.png)
 
 
 This FastAPI application provides endpoints for performing image processing operations using OpenCV and Python. It includes functionalities like image comparison, smoothing, thresholding, morphological transformations, edge detection, and more. The API allows for the upload of images and application of various transformations based on user-provided parameters, then save to the local device.
